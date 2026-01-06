@@ -1,0 +1,11 @@
+Generate 30 concise task descriptions for a {project_type} project
+in a B2B SaaS company.
+
+Rules:
+- Each description must be 1–3 sentences.
+- Plain text only.
+- No markdown, no bullet symbols, no headings.
+- Do NOT explain what the task is doing at a meta level.
+- Do NOT mention prompts, files, or tools.
+
+Return one description per line only.

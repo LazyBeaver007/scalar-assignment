@@ -1,0 +1,9 @@
+Generate 30 short internal task comments for a B2B SaaS team.
+
+Rules:
+- Each comment must be one short sentence.
+- Plain text only.
+- No markdown, no emojis, no explanations.
+- Use casual but professional tone.
+
+Return one comment per line only.

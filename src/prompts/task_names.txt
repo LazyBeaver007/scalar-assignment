@@ -1,0 +1,11 @@
+Generate 30 short task titles for a {project_type} project
+in a B2B SaaS company.
+
+Rules:
+- Each title must be 3–7 words.
+- Use sentence case.
+- Do NOT include explanations, markdown, headings, or punctuation at the start.
+- Do NOT include code blocks.
+- Do NOT mention files, prompts, or tools.
+
+Return one task title per line only.

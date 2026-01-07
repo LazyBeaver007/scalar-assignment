@@ -4,8 +4,8 @@ from google import genai
 
 
 client = genai.Client(
-    #api_key=os.getenv("GEMINI_API_KEY")  
-    api_key="AIzaSyDFRK-pZDbmeYJQyj3-JbQPedyYAjWmNLQ"
+    api_key=os.getenv("GEMINI_API_KEY")  
+    
 )
 
 MODEL_NAME = "gemini-3-flash-preview"
